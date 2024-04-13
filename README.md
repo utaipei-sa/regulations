@@ -27,9 +27,11 @@
 - 臺北市立大學學生自治組織選舉罷免要點  
   [TXT](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E.txt) | 
   [PDF](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E.pdf) | 
-  [DOC](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E.doc) | 
+  [DOC](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E.doc)
 - 臺北市立大學學生自治組織選舉罷免事務委員會設置要點  
-  [TXT](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E9%81%B8%E5%A7%94%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E5%A7%94%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E.txt)
+  [TXT](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E9%81%B8%E5%A7%94%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E5%A7%94%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E.txt) | 
+  [PDF](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E9%81%B8%E5%A7%94%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E5%A7%94%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E.pdf) | 
+  [DOC](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E9%81%B8%E5%A7%94%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E5%A7%94%E6%9C%83%E8%A8%AD%E7%BD%AE%E8%A6%81%E9%BB%9E.doc)
 - 臺北市立大學學生會費審查實施要點  
   [TXT](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E6%9C%83%E8%B2%BB%E5%AF%A9%E6%9F%A5%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E6%9C%83%E8%B2%BB%E5%AF%A9%E6%9F%A5%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.txt)
 

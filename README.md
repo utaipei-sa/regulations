@@ -32,6 +32,8 @@
   [DOC](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E8%87%AA%E6%B2%BB%E7%B5%84%E7%B9%94%E9%81%B8%E8%88%89%E7%BD%B7%E5%85%8D%E8%A6%81%E9%BB%9E.doc)
 - 臺北市立大學學生會費審查實施要點  
   [TXT](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E6%9C%83%E8%B2%BB%E5%AF%A9%E6%9F%A5%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E6%9C%83%E8%B2%BB%E5%AF%A9%E6%9F%A5%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.txt)
+- 臺北市立大學學生會費收退費辦法
+  [TXT](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E6%9C%83%E8%B2%BB%E6%94%B6%E9%80%80%E8%B2%BB%E8%BE%A6%E6%B3%95/%E5%AD%B8%E7%94%9F%E6%9C%83%E8%B2%BB%E6%94%B6%E9%80%80%E8%B2%BB%E8%BE%A6%E6%B3%95.txt)
 
 ### 社團法規
 - 臺北市立大學學生社團評鑑暨觀摩實施要點  

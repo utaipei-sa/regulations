@@ -67,6 +67,10 @@
   [DOCX](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E7%AE%A1%E7%90%86%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E7%AE%A1%E7%90%86%E8%A6%81%E9%BB%9E.docx)
 - 臺北市立大學學生會/學生議會辦公室空間使用規範  
   [TXT](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E6%9C%83%E8%BE%A6%E4%BD%BF%E7%94%A8%E8%A6%8F%E7%AF%84/%E5%AD%B8%E7%94%9F%E6%9C%83%E5%AD%B8%E7%94%9F%E8%AD%B0%E6%9C%83%E8%BE%A6%E5%85%AC%E5%AE%A4%E7%A9%BA%E9%96%93%E4%BD%BF%E7%94%A8%E8%A6%8F%E7%AF%84.txt)
+- 臺北市立大學學生會社團活動補助要點  
+  [TXT](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E6%9C%83%E7%A4%BE%E5%9C%98%E6%B4%BB%E5%8B%95%E8%A3%9C%E5%8A%A9%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E6%9C%83%E7%A4%BE%E5%9C%98%E6%B4%BB%E5%8B%95%E8%A3%9C%E5%8A%A9%E8%A6%81%E9%BB%9E.txt) |
+  [PDF](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E6%9C%83%E7%A4%BE%E5%9C%98%E6%B4%BB%E5%8B%95%E8%A3%9C%E5%8A%A9%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E6%9C%83%E7%A4%BE%E5%9C%98%E6%B4%BB%E5%8B%95%E8%A3%9C%E5%8A%A9%E8%A6%81%E9%BB%9E.pdf) |
+  [DOC](https://github.com/utaipei-sa/regulations/blob/main/%E5%AD%B8%E7%94%9F%E6%9C%83%E7%A4%BE%E5%9C%98%E6%B4%BB%E5%8B%95%E8%A3%9C%E5%8A%A9%E8%A6%81%E9%BB%9E/%E5%AD%B8%E7%94%9F%E6%9C%83%E7%A4%BE%E5%9C%98%E6%B4%BB%E5%8B%95%E8%A3%9C%E5%8A%A9%E8%A6%81%E9%BB%9E.doc)
 
 _此統整僅供參考，請以實際公告為準_
 
